@@ -4,6 +4,10 @@
 
 - Windows 11
 
+## Prerequisites
+
+- [Source SDK Base Resources](https://github.com/Source-SDK-Base-Legacy-Project/Source-SDK-Base-Resources/blob/master/docs/INSTALL.md)
+
 ## Installation
 
 > **Important!** If it's a <u>multiplayer</u> mod, game plugins and/or other programs may be available for it. It's **recommended** to disable [Valve Anti-Cheat](https://developer.valvesoftware.com/wiki/Valve_Anti-Cheat) to prevent unintended false positive ban. See [Disable VAC](disable-vac.md).
